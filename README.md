@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Dhilipkumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imdhilipkumar&label=Profile%20views&color=0e75b6&style=flat" alt="imdhilipkumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imdhilipkumar&label=Profile%20views&color=0e75b6&style=flat" alt="imdhilipkumar" /><a href="https://wakatime.com/@Dhilipkumar"><img src="https://wakatime.com/badge/user/3e66e434-7d02-4a9b-801c-894f0d56d380.svg" alt="Total time coded since Nov 17 2022" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdhilipkumar" alt="imdhilipkumar" /></a> </p>
 

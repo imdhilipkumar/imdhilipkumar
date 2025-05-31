@@ -1,35 +1,74 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </div>
+
 <h1 align="center">Hi 👋, I'm Dhilipkumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast | Python • SQL • Excel • Power BI • Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imdhilipkumar&label=Profile%20views&color=0e75b6&style=flat" alt="imdhilipkumar" /><a href="https://wakatime.com/@Dhilipkumar"><img src="https://wakatime.com/badge/user/3e66e434-7d02-4a9b-801c-894f0d56d380.svg" alt="Total time coded since Nov 17 2022" /></a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdhilipkumar" alt="imdhilipkumar" /></a> </p>
-
-- 🌱 I’m currently learning **100 Days of Code**
-
-- 📫 How to reach me **dhilipkumar.m0007@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mz_gTLZZqepS2aUItf1XR-0tdI1OT2UV/view?usp=drive_link](https://drive.google.com/file/d/1mz_gTLZZqepS2aUItf1XR-0tdI1OT2UV/view?usp=drive_link)
-
-- ⚡ Fun fact **I think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhilipkumar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhilipkumar20" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dhilip0007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhilip0007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhilipkumar_m001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhilipkumar_m001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user1576hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user1576hm" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhilipkumar0007/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhilipkumar0007/profile" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:dhilipkumar.m0007@gmail.com">📫 dhilipkumar.m0007@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/dhilipkumar20">💼 LinkedIn</a> • 
+  <a href="https://drive.google.com/file/d/1mz_gTLZZqepS2aUItf1XR-0tdI1OT2UV/view?usp=drive_link">📄 Resume</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdhilipkumar&show_icons=true&locale=en&layout=compact" alt="imdhilipkumar" /></p>
+🔍 **About Me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdhilipkumar&show_icons=true&locale=en" alt="imdhilipkumar" /></p>
+- 🎓 Computer Science graduate with strong passion for **data analytics and business intelligence**
+- 📊 Transitioning from software engineering to data roles with real-world projects and certifications
+- 💡 Skilled in **data wrangling, data visualization, dashboard building**, and **predictive modeling**
+- 🌱 Currently mastering:
+  - **Google Data Analytics Professional Certificate (Coursera)**
+  - **Power BI, Tableau**, and advanced **Excel**
+- 🧠 Curious about how data can solve business problems and drive smarter decisions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdhilipkumar&" alt="imdhilipkumar" /></p>
+---
+
+🛠️ **Tech Stack**
+
+- **Languages**: Python, SQL, R, Java, JavaScript  
+- **Libraries/Frameworks**: Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, TensorFlow  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Tools**: Power BI, Tableau, Excel, Git, Jupyter, VS Code, Google Sheets  
+- **Concepts**: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Machine Learning, Statistics, A/B Testing
+
+---
+
+📈 **GitHub Stats**
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imdhilipkumar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=imdhilipkumar&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imdhilipkumar" alt="GitHub Streak" />
+</p>
+
+---
+
+📌 **Certifications**
+
+- 📜 [Google Data Analytics Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics) – *In Progress*
+- 📜 [Data Analyst Career Track – 365 Data Science](https://365datascience.com/) – *In Progress*
+- 📜 [Python for Data Science – NPTEL / EdX / Simplilearn]
+
+---
+
+🌐 **Connect With Me**
+
+<p align="left">
+  <a href="https://linkedin.com/in/dhilipkumar20" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.hackerrank.com/dhilipkumar_m001" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hackerrank.svg" alt="Hackerrank" height="30" width="30" /></a>
+  <a href="https://www.leetcode.com/user1576hm" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" height="30" width="30" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/dhilipkumar0007/profile" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/geeksforgeeks.svg" alt="GFG" height="30" width="30" /></a>
+</p>
+
+---
+
+✨ **Fun Fact**: I love uncovering insights from messy data and making stories speak through visualizations!
+
+---
+

@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:dhilipkumar.m0007@gmail.com">📫 dhilipkumar.m0007@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/dhilipkumar20">💼 LinkedIn</a> • 
-  <a href="https://drive.google.com/file/d/1mz_gTLZZqepS2aUItf1XR-0tdI1OT2UV/view?usp=drive_link">📄 Resume</a>
+  <a href="https://drive.google.com/file/d/1FprH6Rt9nVrkDCQI2Zx6GMqAIYlQNZts/view?usp=drive_link">📄 Resume</a>
 </p>
 
 ---

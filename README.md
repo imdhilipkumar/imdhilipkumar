@@ -21,47 +21,46 @@
 
 ---
 
-<h3>🛠️ Languages and Tools</h3>
-
 
 ## 🛠️ Languages and Tools
 
 ### 💻 Programming & Querying
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres" height="50" alt="Python, MySQL, PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="50" alt="Apache Spark"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres" height="48" alt="Python, MySQL, PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="28" alt="Apache Spark" />
 </p>
 
 ### ☁️ Azure Cloud
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="Microsoft Azure"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="50" alt="Microsoft Azure Services"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="28" alt="Azure Databricks" />
 </p>
 
 ### 🗄️ Databases & Data Warehousing
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="Microsoft SQL Server"/>
-  <img src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" height="50" alt="Amazon Redshift"/>
-  <img src="https://cdn.simpleicons.org/amazons3/569A31" height="50" alt="Amazon S3"/>
-  <img src="https://cdn.simpleicons.org/amazonathena/232F3E" height="50" alt="Amazon Athena"/>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Amazon Redshift" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena" />
 </p>
 
 ### 🔧 Developer Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="50" alt="Git, GitHub, Linux, Visual Studio Code"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="48" alt="Git, GitHub, Linux, Visual Studio Code" />
 </p>
 
 ### 📊 Analytics & Visualization
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/amazonquicksight/232F3E" height="50" alt="Amazon QuickSight"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50" alt="Power BI"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter Notebook"/>
+<p>
+  <img src="https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon QuickSight" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 

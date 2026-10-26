@@ -7,7 +7,7 @@
   Building data pipelines, automating ETL workflows, and transforming raw data into analytics-ready datasets.
 </p>
 
----
+--
 
 <h3>👨‍💻 About Me</h3>
 
@@ -23,50 +23,47 @@
 
 <h3>🛠️ Languages and Tools</h3>
 
-<h4>💻 Programming & Querying</h4>
+
+## 🛠️ Languages and Tools
+
+### 💻 Programming & Querying
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql" height="45" alt="Python and MySQL"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="28" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="28" alt="Spark SQL"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres" height="50" alt="Python, MySQL, PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="50" alt="Apache Spark"/>
 </p>
 
-<h4>☁️ Azure Cloud</h4>
+### ☁️ Azure Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Microsoft Azure"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28" alt="Azure Data Factory"/>
-  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28" alt="Azure Blob Storage"/>
-  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="Azure SQL"/>
-  <img src="https://img.shields.io/badge/Event_Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28" alt="Azure Event Hubs"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="Microsoft Azure"/>
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="50" alt="Microsoft Azure Services"/>
 </p>
 
-<h4>🗄️ Databases & Data Warehousing</h4>
+### 🗄️ Databases & Data Warehousing
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" height="28" alt="Amazon Redshift"/>
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="28" alt="Amazon S3"/>
-  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" alt="Amazon Athena"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="Microsoft SQL Server"/>
+  <img src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" height="50" alt="Amazon Redshift"/>
+  <img src="https://cdn.simpleicons.org/amazons3/569A31" height="50" alt="Amazon S3"/>
+  <img src="https://cdn.simpleicons.org/amazonathena/232F3E" height="50" alt="Amazon Athena"/>
 </p>
 
-<h4>🔧 Developer Tools</h4>
+### 🔧 Developer Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="45" alt="Git, GitHub, Linux, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="50" alt="Git, GitHub, Linux, Visual Studio Code"/>
 </p>
 
-<h4>📊 Analytics & Visualization</h4>
+### 📊 Analytics & Visualization
 
 <p align="left">
-  <img src="https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" alt="Amazon QuickSight"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" height="45" alt="Jupyter Notebook"/>
+  <img src="https://cdn.simpleicons.org/amazonquicksight/232F3E" height="50" alt="Amazon QuickSight"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50" alt="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter Notebook"/>
 </p>
 
----
 
 <h3>🏗️ Featured Project</h3>
 

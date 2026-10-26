@@ -22,22 +22,43 @@
 
 ## 🛠️ Languages and Tools
 
+### 💻 Programming & Querying
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,azure,git,github,linux,vscode,pyspark" alt="Python, MySQL, Azure, Git, GitHub, Linux and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark SQL" />
 </p>
 
+### ☁️ Azure Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
-  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Azure SQL"/>
-  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Blob Storage"/>
-  <img src="https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Event Hubs"/>
-  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Amazon Redshift"/>
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Blob Storage" />
+  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Azure SQL Database" />
+  <img src="https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Event Hubs" />
 </p>
 
----
+### 🗄️ Databases & Data Warehousing
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Amazon Redshift" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena" />
+</p>
+
+### 🔧 Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux and VS Code" />
+</p>
+
+### 📊 Analytics & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon QuickSight" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" />
+</p>
 
 ## 🏗️ Featured Project
 

@@ -23,7 +23,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,azure,git,github,linux,vscode" alt="Python, MySQL, Azure, Docker, Git, GitHub, Linux and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,azure,git,github,linux,vscode,pyspark" alt="Python, MySQL, Azure, Git, GitHub, Linux and VS Code" />
 </p>
 
 <p align="left">

@@ -55,7 +55,7 @@ An end-to-end pipeline that processes milk silo sensor data from ingestion to an
 
 **Tech Stack:** Python | Azure Event Hubs | Azure Blob Storage | Azure Data Factory | Azure SQL
 
-🔗 [Explore My GitHub Repositories](https://github.com/imdhilipkumar?tab=repositories)
+🔗 [Explore My GitHub Repositories](https://github.com/imdhilipkumar/PureMilk-Azure-Data-Engineering.git)
 
 ---
 
